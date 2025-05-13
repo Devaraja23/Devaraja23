@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Devaraja
-- 👀 I’m interested in ... Exploring As of Now
-- 🌱 I’m currently learning ... Basics of CS
-- 💞️ I’m looking to collaborate on ... Don't know 
-- 📫 How to reach me... Gmail
+- 👀 I’m interested in Webdev , DataScience and ML
+- 🌱 I’m currently learning to make projects
+- 💞️ I’m looking to collaborate and learn 
+- 📫 devaraja1827@gmail.com 
 
 <!---
 Devaraja23/Devaraja23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
